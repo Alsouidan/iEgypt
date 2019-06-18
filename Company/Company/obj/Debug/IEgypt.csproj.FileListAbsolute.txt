@@ -1,0 +1,7 @@
+E:\GUC\Semester 5\Databases I\Project\MS3\Sample Website_27994\DB WEB\Company\Company\bin\Company.dll.config
+E:\GUC\Semester 5\Databases I\Project\MS3\Sample Website_27994\DB WEB\Company\Company\bin\Company.dll
+E:\GUC\Semester 5\Databases I\Project\MS3\Sample Website_27994\DB WEB\Company\Company\bin\Company.pdb
+E:\GUC\Semester 5\Databases I\Project\MS3\Sample Website_27994\DB WEB\Company\Company\obj\Debug\IEgypt.csprojAssemblyReference.cache
+E:\GUC\Semester 5\Databases I\Project\MS3\Sample Website_27994\DB WEB\Company\Company\obj\Debug\IEgypt.csproj.CoreCompileInputs.cache
+E:\GUC\Semester 5\Databases I\Project\MS3\Sample Website_27994\DB WEB\Company\Company\obj\Debug\Company.dll
+E:\GUC\Semester 5\Databases I\Project\MS3\Sample Website_27994\DB WEB\Company\Company\obj\Debug\Company.pdb

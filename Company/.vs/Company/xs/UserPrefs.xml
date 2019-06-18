@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{49B9EBBA-D417-4677-BBAB-8C0A180B8331}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Company/Login.aspx.cs">
+    <Files>
+      <File FileName="Company/Default.aspx" Line="21" Column="7" />
+      <File FileName="Company/Default.aspx.cs" Line="47" Column="38" />
+      <File FileName="Company/Register.aspx" Line="12" Column="28" />
+      <File FileName="Company/Register.aspx.cs" Line="26" Column="120" />
+      <File FileName="Company/Web.config" Line="13" Column="19" />
+      <File FileName="Company/Login.aspx" Line="15" Column="89" />
+      <File FileName="Company/Login.aspx.cs" Line="36" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Company PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
